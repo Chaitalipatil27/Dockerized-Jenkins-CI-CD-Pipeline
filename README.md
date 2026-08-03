@@ -34,3 +34,20 @@ CI/CD Pipeline
 
 This automates the complete deployment process.
 
+# Step 1: Launch an Ubuntu Server
+
+You need a Linux machine (Ubuntu 22.04 LTS).
+
+This can be:
+
+AWS EC2 Ubuntu instance
+VirtualBox Ubuntu VM
+VMware Ubuntu VM
+
+Minimum requirements:
+
+2 GB RAM
+20 GB Storage
+
+Connect to the server using SSH:
+
