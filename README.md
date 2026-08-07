@@ -51,7 +51,7 @@ Minimum requirements:
 
 Connect to the server using SSH:
 
-![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/6387e5cf94fed169580649a679a1a5b2f6979d22/img/Create%20Instance.png)
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/7aa73beda59991d878b7a6c566d268c4114253be/img/Create%20Instance.png))
 
 # Step 2: Update Server 
 apt update
