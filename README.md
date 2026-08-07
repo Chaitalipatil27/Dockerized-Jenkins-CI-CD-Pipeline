@@ -79,6 +79,14 @@ usermod -aG docker ubuntu
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/6a5fe926511838917e37649f719f5ecb806851a3/img/Add%20ubuntu%20usr.png)
 
+# Step 4 Pull Jenkins Docker Image
+docker pull jenkins/jenkins:lts
+
+Check
+
+docker images
+
+
 
 
 
