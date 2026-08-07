@@ -150,6 +150,7 @@ GitHub
 Maven Integration
 
 Restart Jenkins.
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/5ad8b3ecce616293007c869c4533491a599a973c/img/Plugin%20Installation.png)
 
 # Step 9 Install Docker Inside Jenkins Container
 
