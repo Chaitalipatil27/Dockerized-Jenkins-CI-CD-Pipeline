@@ -152,7 +152,23 @@ Maven Integration
 Restart Jenkins.
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/5ad8b3ecce616293007c869c4533491a599a973c/img/Plugin%20Installation.png)
 
-# Step 9 Install Docker Inside Jenkins Container
+# Step 9: Create a Custom Jenkins Docker Image
+Instead of installing Docker inside a running container, create your own Jenkins image.
+
+Create a folder
+mkdir jenkins-docker
+cd jenkins-docker
+Create a Dockerfile
+nano Dockerfile
+
+FROM jenkins/jenkins:lts
+
+USER root
+
+RUN apt-get update && \
+    apt-get install -y docker.io git maven
+
+USER jenkins
 
 
 
