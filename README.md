@@ -77,6 +77,8 @@ usermod -aG docker ubuntu
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/10087f234ee8eb90934b3c2216881eeccb975ffa/img/Enable%20and%20start%20docker.png)
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/6a5fe926511838917e37649f719f5ecb806851a3/img/Add%20ubuntu%20usr.png)
+
 
 
 
