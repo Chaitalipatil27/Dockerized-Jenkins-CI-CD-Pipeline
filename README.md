@@ -108,6 +108,8 @@ Browser
 
 http://Public-IP:8080
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/409197ac0224c99420a52bdab62d1e6c5f50ce9f/img/Open%20jenkins.png)
+
 
 
 
