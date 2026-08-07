@@ -112,7 +112,7 @@ http://Public-IP:8080
 
 # Step 7: Unlock Jenkins
 docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
-
+![image alt]()
 
 
 
