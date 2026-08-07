@@ -125,8 +125,33 @@ Create Admin User.
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/758ee9dffa900652a7a1b474fcf327c6818e3710/img/Create%20user.png)
 
+# Step 8: Install Required Plugins
 
+Go
 
+Manage Jenkins
+
+↓
+
+Plugins
+
+Install
+
+Git
+
+Pipeline
+
+Docker Pipeline
+
+Docker
+
+GitHub
+
+Maven Integration
+
+Restart Jenkins.
+
+# Step 9 Install Docker Inside Jenkins Container
 
 
 
