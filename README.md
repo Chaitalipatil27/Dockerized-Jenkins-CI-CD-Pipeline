@@ -121,6 +121,8 @@ Install Suggested Plugins.
 Create Admin User.
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/bfdad0623222ef9bab860697c17d21931a000a56/img/Unlock%20Jenkins.png)
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/8256f4bdc8d5667cd4479f29aa76f3461560b89a/img/Insatll%20suggested%20plugins.png)
+
 
 
 
