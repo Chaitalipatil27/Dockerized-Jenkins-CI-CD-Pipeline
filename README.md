@@ -53,3 +53,7 @@ Connect to the server using SSH:
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/6387e5cf94fed169580649a679a1a5b2f6979d22/img/Create%20Instance.png)
 
+# step 2: Update Server 
+apt update
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/337902b62c45bce441fdfb1c6eb97b951d810f65/img/apt%20update.png)
+
