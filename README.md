@@ -123,6 +123,8 @@ Create Admin User.
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/8256f4bdc8d5667cd4479f29aa76f3461560b89a/img/Insatll%20suggested%20plugins.png)
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/758ee9dffa900652a7a1b474fcf327c6818e3710/img/Create%20user.png)
+
 
 
 
