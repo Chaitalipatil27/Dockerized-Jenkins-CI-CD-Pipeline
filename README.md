@@ -86,6 +86,8 @@ Check
 
 docker images
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/8ab9484f089ce49d2527b66ce915b5275bb3f952/img/Pull%20Jenkins%20Image.png)
+
 
 
 
