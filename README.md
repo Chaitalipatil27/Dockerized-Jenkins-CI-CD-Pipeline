@@ -51,4 +51,5 @@ Minimum requirements:
 
 Connect to the server using SSH:
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/6387e5cf94fed169580649a679a1a5b2f6979d22/img/Create%20Instance.png)
 
