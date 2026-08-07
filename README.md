@@ -73,6 +73,7 @@ docker --version
 # Add Ubuntu user to Docker group
 
 usermod -aG docker ubuntu
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/0c71be3eda65a44e135c421924607729c30d9147/img/Install%20Docker.png)
 
 
 
