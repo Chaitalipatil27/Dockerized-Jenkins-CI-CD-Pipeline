@@ -63,6 +63,7 @@ apt install docker.io -y
 # Enable Docker
 
 systemctl enable docker
+
 systemctl start docker
 
 Verify
