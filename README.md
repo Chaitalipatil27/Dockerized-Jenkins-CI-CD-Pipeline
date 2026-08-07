@@ -88,6 +88,20 @@ docker images
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/8ab9484f089ce49d2527b66ce915b5275bb3f952/img/Pull%20Jenkins%20Image.png)
 
+# Step 5 Create Jenkins Container
+docker run -d \
+--name jenkins \
+-p 8080:8080 \
+-p 50000:50000 \
+-v jenkins_home:/var/jenkins_home \
+jenkins/jenkins:lts
+
+Check
+
+docker ps
+
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/321a40564431cd5e29b283d1d95b698378f3c481/img/Create%20Jenkins%20container.png)
+
 
 
 
