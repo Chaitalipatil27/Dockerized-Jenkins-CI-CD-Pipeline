@@ -102,6 +102,13 @@ docker ps
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/321a40564431cd5e29b283d1d95b698378f3c481/img/Create%20Jenkins%20container.png)
 
+# Step 6: Open Jenkins
+
+Browser
+
+http://Public-IP:8080
+
+
 
 
 
