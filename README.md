@@ -471,3 +471,10 @@ see something similar to:
 srw-rw---- 1 root docker ... /var/run/docker.sock
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/dbc3bde7823c1ebe5abb5d333d5b20f0ebcac615/img/Check%20the%20Docker%20socket.png)
+
+Check Docker socket group on EC2
+
+Now, on the EC2 host, run:
+
+stat -c '%g' /var/run/docker.sock
+
