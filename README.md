@@ -666,4 +666,18 @@ it should see:
 
 * main
 
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/f7da23ac6049712ecf725316ef4a5012991fbf5b/img/Rename%20branch%20to%20main.png)
+
+Create a GitHub repository
+
+Now open GitHub in your browser.
+
+Create a new repository.
+
+Use a name such as:
+
+dockerized-jenkins-cicd
+
+For this project, select:
+
+Public
