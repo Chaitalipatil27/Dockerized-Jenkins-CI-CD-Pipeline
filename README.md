@@ -136,6 +136,11 @@ nano src/main/webapp/index.jsp
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/7b660708427b3f8271976d17126a4d46740b88a1/img/Create%20index.jsp.png)
 
+Create web.xml
+
+nano src/main/webapp/WEB-INF/web.xml
+
+
 
 
 
