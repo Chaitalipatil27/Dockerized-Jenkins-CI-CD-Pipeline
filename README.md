@@ -721,6 +721,49 @@ dockerized-jenkins-cicd/
 └── src/
 
 Create a New Item
+On the Jenkins Dashboard, click:
+
+New Item
+
+it will see:
+
+Enter an item name
+
+Enter:
+
+dockerized-jenkins-cicd
+
+Then select:
+
+Pipeline
+
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/bca7a50d10b103416012a29a136529f276250301/img/Create%20a%20New%20Item.png)
+
+Configure the Pipeline
+
+Select:
+
+Pipeline script from SCM
+
+Select Git
+
+After selecting:
+
+Pipeline script from SCM
+
+it will see:
+
+SCM
+
+Select:
+
+Git
+
+Enter your GitHub repository URL
+
+Configure Credentials
+
+
 
 
 
