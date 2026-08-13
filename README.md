@@ -214,6 +214,16 @@ find .
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/16711bb09b8d8f9cd4a2c5e0a63cadac399dcf41/img/Check%20the%20complete%20project.png)
 
+# STEP 8: Create Dockerfile and Run Your Application in Docker
+
+Make sure you are in the project folder
+
+Run
+
+pwd 
+
+
+
 
 
 
