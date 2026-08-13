@@ -353,6 +353,16 @@ should see two containers:
 jenkins
 dockerized-app-container
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/b69c9576092e1fd30da8e55ae458a9f1cbead181/img/Check%20Jenkins%20container.png)
+
+Get the Jenkins initial password
+
+Jenkins needs an administrator password during the first setup.
+
+Run:
+
+docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
+
 
 
 
