@@ -340,6 +340,8 @@ docker run -d \
   -v /var/run/docker.sock:/var/run/docker.sock \
   jenkins/jenkins:lts
 
+  ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/fab1d8ada36f6a66a5384f173c86a1a2ee4457f4/img/Create%20Jenkins%20container.png)
+
 
 
 
