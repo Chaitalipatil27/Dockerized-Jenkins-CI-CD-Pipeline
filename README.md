@@ -681,3 +681,5 @@ dockerized-jenkins-cicd
 For this project, select:
 
 Public
+
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/cf9e77ca8cc3add1828f552c76f6d26652e2e1c6/img/Create%20new%20repo.png)
