@@ -174,7 +174,7 @@ At the end you want:
 
 BUILD SUCCESS
 
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/d5434311994fb12a15202aedb6ae5c28b1af1d40/img/mvn%20clean%20package.png)
 
 
 
