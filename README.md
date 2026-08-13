@@ -683,3 +683,21 @@ For this project, select:
 Public
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/cf9e77ca8cc3add1828f552c76f6d26652e2e1c6/img/Create%20new%20repo.png)
+
+Connect EC2 project to GitHub
+
+git remote add origin https://github.com/Chaitalipatil27/dockerized-jenkins-cicd.git
+
+Verify the remote
+
+Run:
+
+git remote -v
+
+it should see:
+
+origin  https://github.com/YOUR_USERNAME/dockerized-jenkins-cicd.git (fetch)
+origin  https://github.com/YOUR_USERNAME/dockerized-jenkins-cicd.git (push)
+
+![image alt]()
+
