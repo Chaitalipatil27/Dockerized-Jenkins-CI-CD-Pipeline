@@ -560,4 +560,4 @@ Create:
 
 nano .gitignore
 
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/052ca60d75212e7c584b883481f2caad731d75d1/img/Create%20.gitignore.png)
