@@ -312,7 +312,7 @@ Run:
 
 docker volume create jenkins_home
 
-You should get:
+should get:
 
 jenkins_home
 
@@ -341,6 +341,17 @@ docker run -d \
   jenkins/jenkins:lts
 
   ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/fab1d8ada36f6a66a5384f173c86a1a2ee4457f4/img/Create%20Jenkins%20container.png)
+
+Check Jenkins container
+
+Run:
+
+docker ps
+
+should see two containers:
+
+jenkins
+dockerized-app-container
 
 
 
