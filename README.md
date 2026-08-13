@@ -363,7 +363,7 @@ Run:
 
 docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/332d123aec330c87778324ec3d9a37ec82d255e4/img/Get%20the%20Jenkins%20initial%20password.png)
 
 
 
