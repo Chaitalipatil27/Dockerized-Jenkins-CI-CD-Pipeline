@@ -505,7 +505,7 @@ Run:
 
 docker exec -u jenkins jenkins docker ps
 
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ae1557aded0cb81a869e3cbd797068d9f5a3efb8/img/Test%20Docker%20as%20the%20Jenkins%20user.png)
 
 
 
