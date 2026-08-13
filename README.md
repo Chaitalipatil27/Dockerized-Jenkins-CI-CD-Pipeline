@@ -264,6 +264,16 @@ docker ps
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/2a1915cb895b4fb127e9b81fbbdebd62b84c5deb/img/Run%20the%20application%20container.png)
 
+# Access from your Windows browser
+
+Remember the Public IPv4 address of your EC2.
+
+Open your Windows browser and enter:
+
+http://YOUR_EC2_PUBLIC_IP:8081/app/
+
+
+
 
 
 
