@@ -274,8 +274,19 @@ http://YOUR_EC2_PUBLIC_IP:8081/app/
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/dcc3db93973ac2a7ea1eca696eebd736a195d060/img/Access%20from%20your%20Windows%20browser.png)
 
+# STEP 9: Install Jenkins Inside Docker on EC2
 
+Our architecture becomes:
 
+                    AWS EC2
+                       │
+                 Docker Engine
+                       │
+          ┌────────────┴────────────┐
+          │                         │
+     Jenkins Container       Application Container
+          │                         │
+       Port 8080                 Port 8081
 
 
 
