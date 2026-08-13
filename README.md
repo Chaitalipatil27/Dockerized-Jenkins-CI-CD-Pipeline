@@ -130,6 +130,11 @@ mkdir -p src/main/webapp/WEB-INF
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/a6da73c73164c3b54aa2aa4b3792229e6cae2b32/img/Create%20folder.png)
 
+Create index.jsp
+
+nano src/main/webapp/index.jsp
+
+
 
 
 
