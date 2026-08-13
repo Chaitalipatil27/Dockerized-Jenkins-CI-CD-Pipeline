@@ -450,7 +450,7 @@ Inside the Jenkins container, run:
 
 apt-get update
 
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/70fd1877731374f9507627b0bddc5a51ad19ca17/img/Check%20Docker%20from%20inside%20Jenkins.png)
 
 
 
