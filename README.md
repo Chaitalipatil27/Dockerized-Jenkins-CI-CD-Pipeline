@@ -248,6 +248,8 @@ Run:
 
 docker images
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/b33d26bb730fca3b6361427b1295ef551512ef9e/img/Check%20the%20Docker%20image.png)
+
 
 
 
