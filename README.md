@@ -50,6 +50,7 @@ Minimum requirements:
 20 GB Storage
 
 Connect to the server using SSH:
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ce55ee25924b6820642f017904e83fb719da6bf3/img/Create%20Instance.png)
 
 
 
