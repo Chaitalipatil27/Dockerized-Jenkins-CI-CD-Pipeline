@@ -91,6 +91,11 @@ sudo apt install git -y
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/f2702279c9373d51c2368a176452f0b06be51ebd/img/Git%20Installation.png)
 
+Install Java 17
+
+sudo apt install openjdk-17-jdk -y
+
+
 
 
 
