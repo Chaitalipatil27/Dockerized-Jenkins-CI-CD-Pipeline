@@ -460,3 +460,13 @@ apt-get install -y docker.io
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/dd822bc5bc1ad42970cf7c89ed528e3a5a809e28/img/Install%20Docker%20CLI.png)
 
+Check the Docker socket
+
+Still inside Jenkins, run:
+
+ls -l /var/run/docker.sock
+
+see something similar to:
+
+srw-rw---- 1 root docker ... /var/run/docker.sock
+
