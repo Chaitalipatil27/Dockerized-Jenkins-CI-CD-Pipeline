@@ -290,6 +290,8 @@ Our architecture becomes:
 
   Check that your application container is running
 
+  ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ae370b9bb8e5928b2f2906e0713b3db91e5e6bf0/img/Check%20that%20your%20application%20container%20is%20running.png)
+
   
 
 
