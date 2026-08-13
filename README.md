@@ -110,6 +110,10 @@ get something like:
 
 Install Maven
 
+sudo apt install maven -y
+
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/71bdf9f8c27f13b56f1c622df1f4b068f2ab570e/img/Maven%20Installation.png)
+
 
 
 
