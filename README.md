@@ -154,6 +154,27 @@ nano pom.xml
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/1694ecbb9a522b8e2da1707e74eb4c0ccf3d8903/img/Create%20pom.xml.png)
 
+Build the application
+
+Now run:
+
+mvn clean package
+
+Maven will do:
+
+pom.xml
+   ↓
+Compile/build
+   ↓
+Package WAR
+   ↓
+target/app.war
+
+At the end you want:
+
+BUILD SUCCESS
+
+
 
 
 
