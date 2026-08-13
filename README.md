@@ -140,10 +140,7 @@ Create web.xml
 
 nano src/main/webapp/WEB-INF/web.xml
 
-
-
-
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ad92d0b45e405b9a9d8e6d8583740f867eb15bca/img/Create%20web.xml.png)
 
 
 
