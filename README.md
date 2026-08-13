@@ -288,11 +288,45 @@ Our architecture becomes:
           │                         │
        Port 8080                 Port 8081
 
-  Check that your application container is running
+Check that your application container is running
 
-  ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ae370b9bb8e5928b2f2906e0713b3db91e5e6bf0/img/Check%20that%20your%20application%20container%20is%20running.png)
+First run:
 
-  
+docker ps
+
+You should see:
+
+dockerized-app-container
+
+with:
+
+0.0.0.0:8081->8080/tcp
+ 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ae370b9bb8e5928b2f2906e0713b3db91e5e6bf0/img/Check%20that%20your%20application%20container%20is%20running.png)
+
+Create Jenkins Docker volume
+
+We need persistent storage for Jenkins.
+
+Run:
+
+docker volume create jenkins_home
+
+You should get:
+
+jenkins_home
+
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/e629e9418bc3390bdb0efb2e43eb0cb1a0d4a9f3/img/Create%20Jenkins%20Docker%20volume.png)
+
+Download Jenkins image
+
+Run:
+
+docker pull jenkins/jenkins:lts
+
+Docker will download the official Jenkins LTS image.
+
+
 
 
 
