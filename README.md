@@ -418,11 +418,37 @@ docker logs jenkins --tail 20
 
 You should see Jenkins running.
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/e3e0e92e827e6a81fb289a311d6df9d0898e5e20/img/Verify%20Jenkins%20container.png)
 
 # STEP 10 : Create Jenkinsfile
 
 nano Jenkinsfile
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/8ae995f70e61b5c2f3becc11c17e26556a44d52d/img/Create%20Jenkinsfile%201.png)
+
+# STEP 11 — Give Jenkins Permission to Use Docker
+
+Our Jenkins pipeline must be able to run commands such as:
+
+docker build
+docker stop
+docker rm
+docker run
+
+So need to make sure Jenkins can access the Docker Engine on the EC2 host.
+
+Check Docker from inside Jenkins
+
+Run:
+
+docker exec -it -u root jenkins bash
+
+You are now inside the Jenkins container.
+
+Update package information
+
+Inside the Jenkins container, run:
+
+apt-get update
 
 
 
