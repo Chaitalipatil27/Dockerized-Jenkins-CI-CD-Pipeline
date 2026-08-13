@@ -326,6 +326,20 @@ docker pull jenkins/jenkins:lts
 
 Docker will download the official Jenkins LTS image.
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/b27aba2ca489847cd3622e762310292ebb9fff7a/img/Download%20Jenkins%20image.png)
+
+Create Jenkins container
+
+Now run:
+
+docker run -d \
+  --name jenkins \
+  -p 8080:8080 \
+  -p 50000:50000 \
+  -v jenkins_home:/var/jenkins_home \
+  -v /var/run/docker.sock:/var/run/docker.sock \
+  jenkins/jenkins:lts
+
 
 
 
