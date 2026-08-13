@@ -387,7 +387,7 @@ Click:
 
 Continue
 
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/5521c678b20d212fd1c4f933dea0fbd8a8f3cac9/img/Open%20Jenkins%20in%20your%20browser.png)
 
 
 
