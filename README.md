@@ -651,3 +651,19 @@ Run:
 git commit -m "Initial Dockerized Jenkins CI/CD project"
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/4c3f5d6055aab6edd6653e3ae75f25b5830e2f45/img/Create%20the%20first%20commit.png)
+
+Rename branch to main
+
+Run:
+
+git branch -M main
+
+Check:
+
+git branch
+
+it should see:
+
+* main
+
+![image alt]()
