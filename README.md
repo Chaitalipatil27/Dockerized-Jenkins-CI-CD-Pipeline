@@ -232,7 +232,15 @@ nano Dockerfile
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/d9a5c835b25baacce3ee736b8539866f4621b034/img/Create%20the%20Dockerfile.png)
 
+Build the Docker image
 
+Now we create the Docker image.
+
+Run:
+
+docker build -t dockerized-app:1.0 .
+
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/c75f157e4b36173c7c812504574f1cc5511f5cf0/img/Build%20the%20Docker%20image.png)
 
 
 
