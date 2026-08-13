@@ -495,7 +495,7 @@ Run:
 
 docker restart jenkins
 
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/8815f58f66e2bc55accafa0648781c64eb3b4d11/img/Add%20Jenkins%20user%20to%20the%20Docker%20socket%20group%20and%20restart%20jenkins.png)
 
 
 
