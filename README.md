@@ -628,13 +628,15 @@ Then check:
 
 git status
 
-You should see files such as:
+should see files such as:
 
 Dockerfile
 pom.xml
 src/...
 .gitignore
 
-You should not see:
+should not see:
 
 target/app.war
+
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/2abda26beeaac431bd7cc352ad541c309444570e/img/git%20add%20and%20then%20git%20status.png)
