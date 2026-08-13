@@ -643,3 +643,10 @@ target/app.war
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/2abda26beeaac431bd7cc352ad541c309444570e/img/git%20add%20and%20then%20git%20status.png)
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/9af7e8511a8b54d0876530a90feeb1ea9a992ea3/img/Git%20add%20then%20git%20status%202.png)
+
+Create the first commit
+
+Run:
+
+git commit -m "Initial Dockerized Jenkins CI/CD project"
+
