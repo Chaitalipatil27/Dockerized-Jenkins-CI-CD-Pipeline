@@ -401,6 +401,24 @@ Install suggested plugins
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/47508b2c19a30250d22f71c8bf8edb61a5415e19/img/Install%20suggested%20plugins.png)
 
+Verify Jenkins container
+
+Go back to EC2 terminal:
+
+docker ps
+
+should have:
+
+jenkins
+dockerized-app-container
+
+Then run:
+
+docker logs jenkins --tail 20
+
+You should see Jenkins running.
+
+
 # STEP 10 : Create Jenkinsfile
 
 nano Jenkinsfile
