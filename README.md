@@ -56,6 +56,9 @@ Connect to the server using SSH:
 sudo apt update
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/2f6ecab985116e2e09bede5eaf8c996b791a7643/img/Update%20ubuntu%20.png)
 
+# Step 3: Install Docker
+sudo apt install docker.io -y
+
 
 
 
