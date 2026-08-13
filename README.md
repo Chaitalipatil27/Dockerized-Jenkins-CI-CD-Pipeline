@@ -607,3 +607,10 @@ Initialize Git repository
 Then run:
 
 git init
+
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/d40e7e581018816e6780fdc9b26e5e4e4b7d1f36/img/Initialize%20Git%20repository.png)
+
+Now check:
+
+git status
+
