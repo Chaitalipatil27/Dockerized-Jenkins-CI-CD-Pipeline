@@ -588,11 +588,11 @@ git config --global user.name "Your Name"
 
 For example:
 
-git config --global user.name "Chaitali Patil"
+git config --global user.name "chaitali"
 
 Then configure your GitHub email:
 
-git config --global user.email "your-github-email@example.com"
+git config --global user.email "chaitalip976@gmail.com"
 
 Use the email associated with your GitHub account.
 
@@ -600,4 +600,10 @@ Check:
 
 git config --global --list
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/9acc8b80a385563ae7125be4fee0bc80bfa0a960/img/Check%20Git%20configuration.png)
 
+Initialize Git repository
+
+Then run:
+
+git init
