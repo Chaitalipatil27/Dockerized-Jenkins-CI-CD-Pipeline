@@ -178,6 +178,32 @@ BUILD SUCCESS
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/d9704c446973a7b41e59469c9a4275797aa43e7b/img/Build%20Success.png)
 
+Check the WAR file
+
+Run:
+
+ls
+
+should see:
+
+pom.xml
+src
+target
+
+Then:
+
+ls target
+
+should see:
+
+app.war
+
+This is important because later our Dockerfile will copy:
+
+target/app.war
+
+into the Tomcat container.
+
 
 
 
