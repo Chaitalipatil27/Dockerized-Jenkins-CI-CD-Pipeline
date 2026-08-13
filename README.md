@@ -767,7 +767,10 @@ Configure Credentials
 
 Set Jenkinsfile location
 
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/b8d946bbd0e7c6fc52df03e84862610268d4d004/img/Set%20Jenkinsfile%20location.png)
+
+Run the first build manually
+
 
 
 
