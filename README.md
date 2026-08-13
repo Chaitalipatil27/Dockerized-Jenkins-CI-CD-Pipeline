@@ -60,6 +60,11 @@ sudo apt update
 sudo apt install docker.io -y
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/c522229688973fcd67071db3e86837e555cfa4d3/img/Install%20docker.png)
 
+# Step 4: Start and Unable docker,Check Docker status
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo systemctl status docker
+
 
 
 
