@@ -106,7 +106,7 @@ get something like:
 
 /usr/lib/jvm/java-17-openjdk-amd64/bin/java
 
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/a3dd4910fac604c3021df1330bb1d7b80639fabc/img/Check%20JAVA_HOME.png)
 
 
 
