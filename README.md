@@ -62,8 +62,11 @@ sudo apt install docker.io -y
 
 # Step 4: Start and Unable docker,Check Docker status
 sudo systemctl start docker
+
 sudo systemctl enable docker
+
 sudo systemctl status docker
+![image alt]()
 
 
 
