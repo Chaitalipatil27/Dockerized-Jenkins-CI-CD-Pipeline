@@ -242,6 +242,14 @@ docker build -t dockerized-app:1.0 .
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/c75f157e4b36173c7c812504574f1cc5511f5cf0/img/Build%20the%20Docker%20image.png)
 
+Check the Docker image
+
+Run:
+
+docker images
+
+
+
 
 
 
