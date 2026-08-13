@@ -699,5 +699,15 @@ it should see:
 origin  https://github.com/YOUR_USERNAME/dockerized-jenkins-cicd.git (fetch)
 origin  https://github.com/YOUR_USERNAME/dockerized-jenkins-cicd.git (push)
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ba463f95d3ded37304212af9b7d341830ca29ac0/img/Connect%20EC2%20project%20to%20GitHub.png)
+
+Push the project to GitHub
+
+Run:
+
+git push -u origin main
+
 ![image alt]()
+
+
 
