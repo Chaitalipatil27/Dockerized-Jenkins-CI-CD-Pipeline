@@ -614,3 +614,6 @@ Now check:
 
 git status
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/2edbd96e89de3f3ffd757f5e5d8830dde07d4ee8/img/git%20status.png)
+
+![image alt]()
