@@ -507,6 +507,47 @@ docker exec -u jenkins jenkins docker ps
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ae1557aded0cb81a869e3cbd797068d9f5a3efb8/img/Test%20Docker%20as%20the%20Jenkins%20user.png)
 
+Later your Jenkinsfile will contain commands like:
+
+docker build -t dockerized-app:latest .
+
+and:
+
+docker stop dockerized-app-container
+
+and:
+
+docker run -d -p 8081:8080 dockerized-app:latest
+
+
+# STEP 12— Push Your Project to GitHub
+
+Go to your project folder
+
+On your EC2 terminal:
+
+cd ~/dockerized-jenkins-cicd
+
+Check your project files
+
+ls
+
+should have:
+
+Dockerfile
+pom.xml
+src
+target
+
+Also check:
+
+ls target
+
+should have:
+
+app
+app.war
+maven-archiver
 
 
 
