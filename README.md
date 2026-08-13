@@ -204,7 +204,7 @@ target/app.war
 
 into the Tomcat container.
 
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/cdb7a692efebc7daa8d584db7d27dfb1f154fe18/img/Check%20the%20WAR%20file.png)
 
 
 
