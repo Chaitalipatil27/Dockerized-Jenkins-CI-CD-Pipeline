@@ -87,6 +87,7 @@ newgrp docker
 # STEP 6 — Install Git, Java 17, and Maven on EC2
 Install Git
 sudo apt install git -y
+
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/f2702279c9373d51c2368a176452f0b06be51ebd/img/Git%20Installation.png)
 
 
