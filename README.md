@@ -250,6 +250,18 @@ docker images
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/b33d26bb730fca3b6361427b1295ef551512ef9e/img/Check%20the%20Docker%20image.png)
 
+Run the application container
+
+Now run:
+
+docker run -d --name dockerized-app-container -p 8081:8080 dockerized-app:1.0
+
+Check the container
+
+Run:
+
+docker ps
+
 
 
 
