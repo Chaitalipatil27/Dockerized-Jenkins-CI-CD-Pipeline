@@ -82,7 +82,7 @@ sudo usermod -aG docker $USER
 Then apply the new group membership:
 
 newgrp docker
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/a3e858505f3ad5bde0958936b0d530779da32657/img/Allow%20the%20ubuntu%20user%20to%20run%20Docker.pnghttps://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/a3e858505f3ad5bde0958936b0d530779da32657/img/Allow%20the%20ubuntu%20user%20to%20run%20Docker.png)
 
 
 
