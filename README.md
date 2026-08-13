@@ -696,8 +696,8 @@ git remote -v
 
 it should see:
 
-origin  https://github.com/YOUR_USERNAME/dockerized-jenkins-cicd.git (fetch)
-origin  https://github.com/YOUR_USERNAME/dockerized-jenkins-cicd.git (push)
+origin  https://github.com/Chaitalipatil27/dockerized-jenkins-cicd.git (fetch)
+origin  https://github.com/Chaitalipatil27/dockerized-jenkins-cicd.git (push)
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ba463f95d3ded37304212af9b7d341830ca29ac0/img/Connect%20EC2%20project%20to%20GitHub.png)
 
@@ -707,7 +707,21 @@ Run:
 
 git push -u origin main
 
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/08212e56b120e660d3eee6899735bc7addf4f172/img/Push%20the%20project%20to%20GitHub.png)
+
+# STEP 12: Create the Jenkins Pipeline Job
+
+Now your GitHub repository should contain:
+
+dockerized-jenkins-cicd/
+├── .gitignore
+├── Dockerfile
+├── Jenkinsfile
+├── pom.xml
+└── src/
+
+Create a New Item
+
 
 
 
