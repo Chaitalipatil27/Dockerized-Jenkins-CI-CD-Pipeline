@@ -124,6 +124,11 @@ cd dockerized-jenkins-cicd
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/83232a5cf1f6fee2825d2c6cd4a593ddb0243dd9/img/Create%20folder%20dockerized-jenkins-cicd.png)
 
+Create the application folders
+
+mkdir -p src/main/webapp/WEB-INF
+
+
 
 
 
