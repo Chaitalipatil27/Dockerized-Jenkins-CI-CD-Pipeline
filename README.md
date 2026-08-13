@@ -519,6 +519,7 @@ and:
 
 docker run -d -p 8081:8080 dockerized-app:latest
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/4ba265d47b9a0fa2ebaf0bfdbd40ea121b955ca3/img/Jenkinsfile%20will%20contain%20commands%20like.png)
 
 # STEP 12— Push Your Project to GitHub
 
