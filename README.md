@@ -365,6 +365,29 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/332d123aec330c87778324ec3d9a37ec82d255e4/img/Get%20the%20Jenkins%20initial%20password.png)
 
+Open Jenkins in your browser
+
+Take EC2 Public IPv4 address.
+
+Go to:
+
+http://YOUR_EC2_PUBLIC_IP:8080
+
+Should see:
+
+Unlock Jenkins
+
+There will be a password box.
+
+Paste the password you got from:
+
+docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
+
+Click:
+
+Continue
+
+
 
 
 
