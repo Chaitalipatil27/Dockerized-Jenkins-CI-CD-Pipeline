@@ -288,6 +288,10 @@ Our architecture becomes:
           │                         │
        Port 8080                 Port 8081
 
+  Check that your application container is running
+
+  
+
 
 
 
