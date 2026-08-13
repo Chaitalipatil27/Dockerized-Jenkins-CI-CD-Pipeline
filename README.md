@@ -765,6 +765,10 @@ Configure Credentials
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/0910d60adcdc1ddc1e414df272b8bbe508c83b5d/img/Configure%20the%20Pipeline%20(2).png)
 
+Set Jenkinsfile location
+
+![image alt]()
+
 
 
 
