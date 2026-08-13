@@ -404,6 +404,7 @@ Install suggested plugins
 # STEP 10 : Create Jenkinsfile
 
 nano Jenkinsfile
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/8ae995f70e61b5c2f3becc11c17e26556a44d52d/img/Create%20Jenkinsfile%201.png)
 
 
 
