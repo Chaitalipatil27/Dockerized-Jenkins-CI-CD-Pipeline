@@ -84,7 +84,10 @@ Then apply the new group membership:
 newgrp docker
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/bee932ef82f969c89f7f5be89543085cf5bfc06c/img/Allow%20the%20ubuntu%20user%20to%20run%20Docker.png)
 
-
+# STEP 6 — Install Git, Java 17, and Maven on EC2
+Install Git
+sudo apt install git -y
+![image alt]()
 
 
 
