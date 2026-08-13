@@ -58,6 +58,7 @@ sudo apt update
 
 # Step 3: Install Docker
 sudo apt install docker.io -y
+![image alt]()
 
 
 
