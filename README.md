@@ -401,6 +401,12 @@ Install suggested plugins
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/47508b2c19a30250d22f71c8bf8edb61a5415e19/img/Install%20suggested%20plugins.png)
 
+# STEP 10 : Create Jenkinsfile
+
+nano Jenkinsfile
+
+
+
 
 
 
