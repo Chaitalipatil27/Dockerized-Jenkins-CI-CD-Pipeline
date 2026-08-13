@@ -224,6 +224,14 @@ pwd
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/25dea405e5b87c180c49f4bcd8d06afb12a4c3f9/img/Make%20sure%20you%20are%20in%20the%20project%20folder.png)
 
+Create the Dockerfile
+
+Run:
+
+nano Dockerfile
+
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/d9a5c835b25baacce3ee736b8539866f4621b034/img/Create%20the%20Dockerfile.png)
+
 
 
 
