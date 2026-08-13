@@ -114,6 +114,27 @@ sudo apt install maven -y
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/71bdf9f8c27f13b56f1c622df1f4b068f2ab570e/img/Maven%20Installation.png)
 
+# STEP 7 — Create the Project on EC2
+will create:
+
+dockerized-jenkins-cicd/
+├── src/
+│   └── main/
+│       └── webapp/
+│           ├── index.jsp
+│           └── WEB-INF/
+│               └── web.xml
+├── pom.xml
+├── Dockerfile
+└── Jenkinsfile
+
+Create the main project folder
+
+mkdir dockerized-jenkins-cicd
+
+cd dockerized-jenkins-cicd
+
+
 
 
 
