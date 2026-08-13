@@ -478,3 +478,25 @@ Now, on the EC2 host, run:
 
 stat -c '%g' /var/run/docker.sock
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/91507f8e1a8e676146696426385bc3e18e94c2b7/img/Check%20Docker%20socket%20group%20on%20EC2.png)
+
+Add Jenkins user to the Docker socket group
+
+Run this exact command:
+
+SOCK_GID=$(stat -c '%g' /var/run/docker.sock)
+docker exec -u root jenkins bash -c "getent group $SOCK_GID || groupadd -g $SOCK_GID dockerhost; usermod -aG dockerhost jenkins"
+
+This connects the Jenkins user to the same Linux group that owns the Docker socket.
+
+Restart Jenkins
+
+Run:
+
+docker restart jenkins
+
+
+
+
+
+
