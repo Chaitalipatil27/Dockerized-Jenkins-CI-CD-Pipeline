@@ -262,6 +262,7 @@ Run:
 
 docker ps
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/2a1915cb895b4fb127e9b81fbbdebd62b84c5deb/img/Run%20the%20application%20container.png)
 
 
 
