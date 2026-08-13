@@ -617,3 +617,24 @@ git status
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/2edbd96e89de3f3ffd757f5e5d8830dde07d4ee8/img/git%20status.png)
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/c9e075504a4ffcd37f739c6f99dcee6a57bf564a/img/git%20status%202.png)
+
+Add the files
+
+Run:
+
+git add .
+
+Then check:
+
+git status
+
+You should see files such as:
+
+Dockerfile
+pom.xml
+src/...
+.gitignore
+
+You should not see:
+
+target/app.war
