@@ -222,6 +222,7 @@ Run
 
 pwd 
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/25dea405e5b87c180c49f4bcd8d06afb12a4c3f9/img/Make%20sure%20you%20are%20in%20the%20project%20folder.png)
 
 
 
