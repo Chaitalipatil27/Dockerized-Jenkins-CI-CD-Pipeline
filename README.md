@@ -561,3 +561,17 @@ Create:
 nano .gitignore
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/052ca60d75212e7c584b883481f2caad731d75d1/img/Create%20.gitignore.png)
+
+Why target/?
+
+Maven automatically creates:
+
+target/app.war
+
+Jenkins will create it again using:
+
+mvn clean package
+
+So we don't need to store target in GitHub.
+
+
