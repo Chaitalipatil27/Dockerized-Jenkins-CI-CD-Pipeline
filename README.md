@@ -66,7 +66,7 @@ sudo systemctl start docker
 sudo systemctl enable docker
 
 sudo systemctl status docker
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/8736d56be0ecfa53dbed064ab090fd1689212332/img/Start%20and%20unable%20docker.png)
 
 
 
