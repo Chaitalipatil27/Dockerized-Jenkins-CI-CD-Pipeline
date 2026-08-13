@@ -470,3 +470,4 @@ see something similar to:
 
 srw-rw---- 1 root docker ... /var/run/docker.sock
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/dbc3bde7823c1ebe5abb5d333d5b20f0ebcac615/img/Check%20the%20Docker%20socket.png)
