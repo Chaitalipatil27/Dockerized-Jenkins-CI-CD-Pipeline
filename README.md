@@ -575,3 +575,29 @@ mvn clean package
 So we don't need to store target in GitHub.
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/d48f876e139bffc7f74a57431b378a3ff634c2d7/img/Jenkins%20will%20create%20mvn%20cleang%20package%20again.png)
+
+Check Git configuration
+
+Run:
+
+git --version
+
+Then:
+
+git config --global user.name "Your Name"
+
+For example:
+
+git config --global user.name "Chaitali Patil"
+
+Then configure your GitHub email:
+
+git config --global user.email "your-github-email@example.com"
+
+Use the email associated with your GitHub account.
+
+Check:
+
+git config --global --list
+
+
