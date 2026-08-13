@@ -272,7 +272,7 @@ Open your Windows browser and enter:
 
 http://YOUR_EC2_PUBLIC_IP:8081/app/
 
-![image alt]
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/dcc3db93973ac2a7ea1eca696eebd736a195d060/img/Access%20from%20your%20Windows%20browser.png)
 
 
 
