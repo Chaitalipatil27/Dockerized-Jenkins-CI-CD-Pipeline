@@ -552,4 +552,12 @@ maven-archiver
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/9757b100f6df8ce55af1fef0ba5afcdb6f8d1a00/img/Check%20your%20project%20files.png)
 
+Create .gitignore
+
+We should not upload the target folder to GitHub because Maven creates it during the build.
+
+Create:
+
+nano .gitignore
+
 
