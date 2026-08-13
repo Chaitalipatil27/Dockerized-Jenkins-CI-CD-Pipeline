@@ -272,7 +272,7 @@ Open your Windows browser and enter:
 
 http://YOUR_EC2_PUBLIC_IP:8081/app/
 
-
+![image alt]
 
 
 
