@@ -94,7 +94,7 @@ sudo apt install git -y
 Install Java 17
 
 sudo apt install openjdk-17-jdk -y
-
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/f9e1816ab34658c4dd1fb8f963180976509c582f/img/Java%20Installation.png)
 
 
 
