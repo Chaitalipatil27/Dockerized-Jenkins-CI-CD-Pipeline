@@ -898,7 +898,33 @@ Enter Payload URL
 
 http://98.91.236.183:8080/github-webhook/
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/17e056c6cee4481d1a0cdc010d0633c969dcd3e7/img/Add%20payroad%20url.png)
+
+Test automatic CI/CD
+
+Now make a small change to your project.
+
+For example:
+
+cd ~/dockerized-jenkins-cicd
+
+Edit your JSP:
+
+nano src/main/webapp/index.jsp
+
+Change some text, for example:
+
+<h1>Dockerized Jenkins CI/CD Application</h1>
+
+Then:
+
+git add .
+git commit -m "Update application"
+git push origin main
+
 ![image alt]()
+
+
 
 
 
