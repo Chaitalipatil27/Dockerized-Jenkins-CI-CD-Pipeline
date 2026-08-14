@@ -922,8 +922,21 @@ git add .
 git commit -m "Update application"
 git push origin main
 
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/40b0d5a5d8dfc532847a0ebed1d37169b09df432/img/make%20a%20small%20change%20to%20your%20project.png)
 
+Check Jenkins
+
+Go to:
+
+Jenkins
+
+   ↓
+   
+dockerized-jenkins-cicd
+
+we should see a new build automatically.
+
+![image alt]()
 
 
 
