@@ -825,7 +825,28 @@ curl http://localhost:8081
 
 If your application is working, you should receive HTML output.
 
-1[image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/cd4d8f147d59a08ddfd57bedb40d42cc8893f125/img/Test%20the%20application%20from%20EC2.png)
+
+Open the application in your browser
+
+Go to your AWS EC2 Security Group.
+
+Add an inbound rule:
+
+Type: Custom TCP
+Port: 8081
+Source: My IP
+
+For temporary testing you can use:
+
+Port: 8081
+Source: 0.0.0.0/0
+
+but My IP is safer.
+
+Then open:
+
+http://YOUR-EC2-PUBLIC-IP:8081
 
 
 
