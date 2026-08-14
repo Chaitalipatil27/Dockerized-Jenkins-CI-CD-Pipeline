@@ -872,7 +872,23 @@ Check:
 
 ☑ GitHub hook trigger for GITScm polling
 
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/24899b0b4051a0d62e4e2fcd1bf85844a4c2a2dd/img/Enable%20GitHub%20trigger.png)
+
+Open GitHub repository
+
+Open your repository:
+
+dockerized-jenkins-cicd
+
+Then go to:
+
+Settings
+
+   ↓
+Webhooks
+
+   ↓
+Add webhook
 
 
 
