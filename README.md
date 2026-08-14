@@ -789,9 +789,28 @@ Set Jenkinsfile location
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/b8d946bbd0e7c6fc52df03e84862610268d4d004/img/Set%20Jenkinsfile%20location.png)
 
+# STEP 13: Verify Docker Deployment
+
 Run the first build manually
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/cf31c4510ed44d39a910ba54e8d83db026c11601/img/BUILD%20SUCCESS%20in%20jenkins.png)
+
+After Jenkins says:
+
+Finished: SUCCESS
+
+we need to verify that Jenkins actually created and started your application container.
+
+Check running containers
+
+Run:
+
+docker ps
+
+![image alt]()
+
+
+
 
 
 
