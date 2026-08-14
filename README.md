@@ -848,6 +848,31 @@ http://98.91.236.183:8081/app/
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/70d9b4eca3c6929c058f9fcb6cb134b2734ae42e/img/Java%20web%20application.png)
 
+# Step 14: Configure GitHub Webhook
+
+Now we will make your CI/CD pipeline automatic.
+
+Open your Jenkins job
+
+Go to Jenkins:
+
+Then:
+
+Dashboard
+   
+dockerized-jenkins-cicd
+   
+Configure
+
+Enable GitHub trigger
+
+Build Triggers
+
+Check:
+
+☑ GitHub hook trigger for GITScm polling
+
+![image alt]()
 
 
 
