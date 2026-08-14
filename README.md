@@ -5,15 +5,25 @@ Project Objective
 Automatically build and deploy an application whenever code is pushed to GitHub using Jenkins running inside Docker.
 # Architecture
  Developer
+ 
       │
+      
  GitHub Repository
+ 
       │
+      
  Jenkins (Docker Container)
+ 
       │
+      
  Build Docker Image
+ 
       │
+      
  Run Docker Container
+ 
       │
+      
  Application Running
 
 # Why is this project required?
@@ -163,11 +173,17 @@ mvn clean package
 Maven will do:
 
 pom.xml
+
    ↓
+   
 Compile/build
+
    ↓
+   
 Package WAR
+
    ↓
+
 target/app.war
 
 At the end you want:
@@ -187,7 +203,9 @@ ls
 should see:
 
 pom.xml
+
 src
+
 target
 
 Then:
@@ -430,8 +448,11 @@ nano Jenkinsfile
 Our Jenkins pipeline must be able to run commands such as:
 
 docker build
+
 docker stop
+
 docker rm
+
 docker run
 
 So need to make sure Jenkins can access the Docker Engine on the EC2 host.
@@ -533,21 +554,26 @@ Check your project files
 
 ls
 
-should have:
+It should have:
 
 Dockerfile
+
 pom.xml
+
 src
+
 target
 
 Also check:
 
 ls target
 
-should have:
+It should have:
 
 app
+
 app.war
+
 maven-archiver
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/9757b100f6df8ce55af1fef0ba5afcdb6f8d1a00/img/Check%20your%20project%20files.png)
@@ -628,12 +654,16 @@ Then check:
 
 git status
 
-should see files such as:
+we should see files such as:
 
 Dockerfile
+
 pom.xml
+
 src/...
+
 .gitignore
+
 jenkinsfile
 
 should not see:
@@ -736,9 +766,13 @@ Now your GitHub repository should contain:
 
 dockerized-jenkins-cicd/
 ├── .gitignore
+
 ├── Dockerfile
+
 ├── Jenkinsfile
+
 ├── pom.xml
+
 └── src/
 
 Create a New Item
