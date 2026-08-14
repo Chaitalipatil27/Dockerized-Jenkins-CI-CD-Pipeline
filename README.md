@@ -946,7 +946,7 @@ Finished: SUCCESS
 
 http://98.91.236.183:8081/app/
 
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/1710146a471b80d174d7a6dec251a632df4182a7/img/Verify%20the%20application.png)
 
 
 
