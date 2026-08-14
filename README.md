@@ -936,7 +936,7 @@ dockerized-jenkins-cicd
 
 we should see a new build automatically.
 
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/9f2bdeabeaf6d6eaa1600c724ce60c40235ad06c/img/new%20build%20automatically..png)
 
 
 
