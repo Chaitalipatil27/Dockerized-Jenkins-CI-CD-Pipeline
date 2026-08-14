@@ -711,7 +711,23 @@ git push -u origin main
 
 Configure Maven Inside Jenkins Container
 
+Enter Jenkins container as root
 
+Run this from EC2, not from inside the container:
+
+docker exec -u 0 -it jenkins bash
+
+Install Maven
+
+Now run:
+
+apt update
+
+Then:
+
+apt install maven -y
+
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ecf31fc7bf2cf8ad0af4a5da30c219b57622285b/img/Configure%20Maven%20Inside%20Jenkins%20Container.png)
 
 # STEP 12: Create the Jenkins Pipeline Job
 
@@ -774,6 +790,8 @@ Set Jenkinsfile location
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/b8d946bbd0e7c6fc52df03e84862610268d4d004/img/Set%20Jenkinsfile%20location.png)
 
 Run the first build manually
+
+![image alt]()
 
 
 
