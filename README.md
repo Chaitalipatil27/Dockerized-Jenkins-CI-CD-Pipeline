@@ -892,7 +892,13 @@ Webhooks
    
 Add webhook
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/406663d2fa92523504ac800a59ee1bae6d538584/img/Add%20webhook.png)
 
+Enter Payload URL
+
+http://98.91.236.183:8080/github-webhook/
+
+![image alt]()
 
 
 
