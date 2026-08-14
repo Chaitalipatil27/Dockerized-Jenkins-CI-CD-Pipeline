@@ -846,7 +846,7 @@ Then open:
 
 http://98.91.236.183:8081/app/
 
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/70d9b4eca3c6929c058f9fcb6cb134b2734ae42e/img/Java%20web%20application.png)
 
 
 
