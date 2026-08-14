@@ -791,7 +791,7 @@ Set Jenkinsfile location
 
 Run the first build manually
 
-![image alt]()
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/cf31c4510ed44d39a910ba54e8d83db026c11601/img/BUILD%20SUCCESS%20in%20jenkins.png)
 
 
 
