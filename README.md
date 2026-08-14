@@ -807,6 +807,14 @@ Run:
 
 docker ps
 
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/177511484767904e8d31b54712d711858048339a/img/Check%20Jenkins%20container.png)
+
+Check the application container
+
+Run:
+
+docker ps -a
+
 ![image alt]()
 
 
