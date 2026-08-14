@@ -697,6 +697,7 @@ git remote -v
 it should see:
 
 origin  https://github.com/Chaitalipatil27/dockerized-jenkins-cicd.git (fetch)
+
 origin  https://github.com/Chaitalipatil27/dockerized-jenkins-cicd.git (push)
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/ba463f95d3ded37304212af9b7d341830ca29ac0/img/Connect%20EC2%20project%20to%20GitHub.png)
@@ -834,19 +835,16 @@ Go to your AWS EC2 Security Group.
 Add an inbound rule:
 
 Type: Custom TCP
-Port: 8081
-Source: My IP
-
-For temporary testing you can use:
 
 Port: 8081
+
 Source: 0.0.0.0/0
 
-but My IP is safer.
+![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/c255d5b2586b69e442ff501e59f07b7b69002782/img/Add%20an%20inbound%20rule.png)
 
 Then open:
 
-http://YOUR-EC2-PUBLIC-IP:8081
+http://98.91.236.183:8081
 
 
 
