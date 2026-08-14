@@ -709,6 +709,10 @@ git push -u origin main
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/08212e56b120e660d3eee6899735bc7addf4f172/img/Push%20the%20project%20to%20GitHub.png)
 
+Configure Maven Inside Jenkins Container
+
+
+
 # STEP 12: Create the Jenkins Pipeline Job
 
 Now your GitHub repository should contain:
