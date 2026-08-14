@@ -817,6 +817,16 @@ docker ps -a
 
 ![image alt](https://github.com/Chaitalipatil27/Dockerized-Jenkins-CI-CD-Pipeline/blob/20260de91366849ce2decbda8acd321b8691ce22/img/check%20app%20container.png)
 
+Test the application from EC2
+
+Run:
+
+curl http://localhost:8081
+
+If your application is working, you should receive HTML output.
+
+1[image alt]()
+
 
 
 
